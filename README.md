@@ -1,21 +1,19 @@
-# NASA-Space-Mission-AI-Project---ITAI-2372
-# AI Solution: [NASA Space Mission]
+# NASA Space Mission AI Project – Conceptual Design Track
 
-## Team Member(s)
-- Carlos Granillo
+## Name
+Carlos Granillo
 
-## Project Track
-- Conceptual Design Track
+## Track Chosen
+Conceptual Design
 
-## Project Description
-This project proposes an AI-driven solution for a NASA Space Mission.
-AI is now used by NASA for planning and scheduling Space missions ahead of time.
-AI is also being used to monitor Astronauts health in outer space.
-## Documentation Guide
-This repository contains the required project deliverables organized into folders:
-- `proposal/` – Initial project concept and problem background
-- `design/` – Full conceptual solution design, including tools and workflow
-- `testing/` – Plan for evaluating solution effectiveness
-- `presentation/` – Slides for final presentation
+## Brief Project Description
+This project proposes a fully autonomous AI system for real-time detection of power loss anomalies in satellites. The AI monitors incoming telemetry data and flags early signs of failure or system degradation, enabling rapid mitigation during live missions. This tool is designed to enhance satellite reliability and reduce the risk of mission failure.
 
-All PDFs are included for ease of submission and review.
+## How to Read This Documentation
+This repository contains all deliverables in PDF format:
+- Project Proposal
+- Detailed AI Solution Plan
+- Testing Plan
+- Presentation Slides
+
+Each document is clearly labeled and located in the main directory.
